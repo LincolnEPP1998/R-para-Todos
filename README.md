@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="[https://sistemas.uniandes.edu.co/codefest/2023/assets/img/codefest-banner.png]" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="[https://upload.wikimedia.org/wikipedia/commons/c/c9/Universidad_de_los_Andes_%28logo%29.png]" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>
